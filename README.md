@@ -1,5 +1,5 @@
 
-> The source code and design of this project is elementary. A rewrite is planned.
+> The design and code of this project is elementary. A rewrite is planned.
 
 # AxBind
 > Make one key-map to rule them all.
