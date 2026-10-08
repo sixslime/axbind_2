@@ -1,4 +1,6 @@
 
+> This project is elementary. A redesign/rewrite is planned.
+
 # AxBind
 > Make one key-map to rule them all.
 ## Overview
